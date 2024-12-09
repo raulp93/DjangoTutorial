@@ -1,0 +1,11 @@
+# Text back up files
+*.bak 
+
+
+# Database
+*.sqlite3
+
+
+# venv
+
+venv/
